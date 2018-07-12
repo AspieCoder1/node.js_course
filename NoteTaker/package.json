@@ -1,0 +1,15 @@
+{
+  "name": "nodenotes",
+  "version": "1.0.0",
+  "description": "node note taking app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Braithwaite",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "*",
+    "yargs": "*"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "node-weather",
+  "version": "1.0.0",
+  "description": "Weather app in node to demonstrate Asynchronious Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Braithwaite",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "*",
+    "request": "*",
+    "yargs": "*"
+  }
+}
